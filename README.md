@@ -2,6 +2,9 @@
     <img src= "https://henryhotel.hruiz.com/static/media/logoHotel.accdefa4.png"  </img>
 </p>
 
+## DEMO
+https://henryhotel.hruiz.com
+
 ## Instalación 
 - En consola utilizar el comando **git clone** utilizando el link de github (Pestaña Code)
 - Luego de clonar el repositorio exitosamente, instalar las dependencias del front, para eso debe posicionarse en la dirección **client** (comando: cd client) e ingresar el comando **npm install**.
